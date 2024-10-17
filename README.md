@@ -21,7 +21,6 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://swythabeast.fr)
-- I’m currently closed for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
