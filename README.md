@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Swythabeast </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=22&center=true&vCenter=true&width=600&height=50&lines=Cybersecurity+Student+@+Guardia;Infrastructure+%26+Network+Enthusiast;CTF+Player+%2F+Builder;Passionate+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=cyan&size=22&center=true&vCenter=true&width=600&height=50&lines=Cybersecurity+Student+@+Guardia;Infrastructure+%26+Network+Enthusiast;Homelab+Administrator;Passionate+Developer"></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 💼 **Responsable** chez [Katabump.com](https://katabump.com).
 - ⚡ **Passionné** par l'infrastructure, le réseau et la sécurité des systèmes.
 - 🛠️ **Créateur** de [swycloud.com](https://swycloud.com).
-- 🚩 Joueur de **CTF** à mes heures perdues.
+- 🖥️ **Administrateur de Homelab** à mes heures perdues.
 
 <br clear="right">
 
@@ -79,7 +79,7 @@
 <div align="center">
 
 <a href="https://fr.linkedin.com/in/morgann-poissonnier-46a040311" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-morgann-poissonnier-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Morgann%20Poissonnier-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/Swy_Eternia" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-Swy_Eternia-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
